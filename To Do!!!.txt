@@ -1,0 +1,5 @@
+To Do
+
+fix user profiles so they can select their department and team
+add teams in the admin area
+ability to email user when update has been given

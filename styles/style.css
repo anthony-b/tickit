@@ -1,0 +1,28 @@
+body {
+    background: url('../images/background.jpg') top center transparent no-repeat fixed;
+}
+.navfix{
+	height: 50px;
+}
+.navbar .container{
+background: transparent;
+padding-bottom: 0px;
+}
+.container{
+	background: #ffffff;
+	padding-bottom: 10px;
+}
+.home.container{
+	background: none;
+}
+
+.unread{
+	font-weight: bold;
+}
+p{
+	clear: both;
+}
+clearfix{
+content: " ";
+clear: both;
+}
